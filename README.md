@@ -4,6 +4,8 @@
 
 - <b>Active Directory </b>   
   - [Creating Account Lockout Policy}
+  - [Navigating steps to unlock account]
+  - [Changing user passwords]
 - <b>Permissions Project</b>
   - 
   - 
