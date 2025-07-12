@@ -3,7 +3,7 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>Active Directory </b>   
-  - [Creating Account Lockout Policy] (https://github.com/JohnCicero13/AD-LockOutPolicy)
+  - [Creating Account Lockout Policy](https://github.com/JohnCicero13/AD-LockOutPolicy)
   - [Navigating steps to unlock account]
   - [Changing user passwords]
 - <b>Permissions Project</b>
